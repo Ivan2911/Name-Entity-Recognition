@@ -1,8 +1,8 @@
 # Name-Entity-Recognition
 
-=======
+
 This project is a part of the NLP Project from University of Alabama at Birmingham
-=======
+
 
 ## Project Description
 This project focuses on applying pretrained language representation models such as BERT and DistilBERT to perform classification on the Groningen Meaning Bank dataset. The model developed predicts the IOB tag for tokens in each sentence. We have achieved results of around 98% accuracy for for models and and F1-SCORE(macro) of 69% and 75% for BERT and DistilBERT respectively.
