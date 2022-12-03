@@ -30,3 +30,9 @@ This project focuses on applying pretrained language representation models such 
 - [PyTorch](https://pytorch.org/)
 - [Jupyter](https://jupyter.org/)
 
+# Getting Started
+- Clone this repo
+- [Download the Dataset](https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpus?select=ner_dataset.csv)
+- install the requirements.txt
+- run the jupyter notbooks (bert_best or distilbert)
+
