@@ -1,6 +1,5 @@
 # Name-Entity-Recognition
-<<<<<<< HEAD
-Applying BERT and DistilBERT in NER
+
 =======
 This project is a part of the NLP Project from University of Alabama at Birmingham
 
@@ -30,4 +29,4 @@ This project focuses on applying pretrained language representation models such 
 - [Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
 - [PyTorch](https://pytorch.org/)
 - [Jupyter](https://jupyter.org/)
->>>>>>> 1d305068dca9f2c18a6f9b2455460e4ada61c3d7
+
