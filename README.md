@@ -1,7 +1,7 @@
 # Name-Entity-Recognition
 
 
-This project is a part of the NLP Project from University of Alabama at Birmingham
+This project is a part of the NLP Project from [University of Alabama at Birmingham](https://www.uab.edu/home/)
 
 
 ## Project Description
